@@ -1,0 +1,22 @@
+{
+    "Crib":["blue"],
+    "Cube.004":["orange"],
+    "Cube.005": ["blue"],
+    "Cube.006" : ["red"],
+    "Cube.008": ["green"],
+    "Toy_10":["red"],
+    "Toy_1a":["green"],
+    "Toy_1":["blue"],
+    "Toy_2":["black and white"],
+    "Toy_5":["colorful"],
+    "P_NumberBox01_6":["brown"],
+    "P_NumberBox01_1":["brown", "squarey"],
+    "P_NumberBox01_2":["brown"],
+    "P_WoodenCubes01_Cone1":["brown"],
+    "Bear_01": ["yellow"],
+    "Bear_02": ["pink"],
+    "Bear_03": ["blue"],
+    "Bear_04": ["green"],
+    "P_WoodenHorseSwing01": ["brown"],
+    "Piano":["black"]
+}
